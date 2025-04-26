@@ -28,5 +28,8 @@ pasos para correr la aplicacion:
       spring.jpa.show-sql=true
       spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.SQLServerDialect
 
+ 4.- Ejecutar la aplicacion y acceder a ella:Abre un navegador y ve a la URL:http://localhost:8080/
+
+Nota: toma en cuenta que en el registro solo se pueden registrar usuarios con el rol de almacenista, para ingresar como administrador ya se cuenta con un perfil que es: Correo: admin123@example.com Contrasena: admin123
 
   
