@@ -32,4 +32,7 @@ pasos para correr la aplicacion:
 
 Nota: toma en cuenta que en el registro solo se pueden registrar usuarios con el rol de almacenista, para ingresar como administrador ya se cuenta con un perfil que es: Correo: admin123@example.com Contrasena: admin123
 
+
+por ultimo le dejo el enlace a google drive donde se encuentra el video del funcionamiento del sistema: https://drive.google.com/drive/folders/1ElqrONElBVMtTO_jhcf4Mj8qqpr9uNIP?usp=sharing
+
   
